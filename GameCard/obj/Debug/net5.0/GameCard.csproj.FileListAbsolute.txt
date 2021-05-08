@@ -1,0 +1,16 @@
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\bin\Debug\net5.0\GameCard.exe
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\bin\Debug\net5.0\GameCard.deps.json
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\bin\Debug\net5.0\GameCard.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\bin\Debug\net5.0\GameCard.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\bin\Debug\net5.0\GameCard.dll
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\bin\Debug\net5.0\ref\GameCard.dll
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\bin\Debug\net5.0\GameCard.pdb
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\GameCard.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\GameCard.GeneratedMSBuildEditorConfig.editorconfig
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\GameCard.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\GameCard.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\GameCard.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\GameCard.dll
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\ref\GameCard.dll
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\GameCard.pdb
+F:\YURKO\SHAG\Project C#\08_18042021_Lab_Generic_Collections_Delegate\Homework_Colection_GameCard\GameCard\GameCard\obj\Debug\net5.0\GameCard.genruntimeconfig.cache
