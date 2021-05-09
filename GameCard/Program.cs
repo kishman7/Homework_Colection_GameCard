@@ -70,7 +70,7 @@ namespace GameCard
 
             public void shuffleCards(List<Card> cards) // метод перемішування карт
             {
-                cards.Sort((a, b) => _random.Next(-2, 2));  //ТУТ НЕ ЗРОЗУМІЛО ЯК ПРАЦЮЄ SORT І ЧОМУ В РАНДОМІ -2 ТА 2 ???
+                cards.Sort((a, b) => _random.Next(-2, 2));  
             }
 
             public void dealCardsToPlayers(List<Player> players, List<Card> cards)  // роздача карт гравцям
@@ -82,7 +82,7 @@ namespace GameCard
                     players[currentPlayer].cards.Add(cards[i]);
 
                     currentPlayer++;
-                    currentPlayer %= players.Count;  //???
+                    currentPlayer %= players.Count;  //
                 }
             }
 
@@ -91,7 +91,7 @@ namespace GameCard
                 Console.WriteLine("Ход игроков:");
                 Console.WriteLine("игрок\tкол-во карт\tход картой");
 
-                int maxValue = -1;  // для тго, щоб цикл запустився з першого разу
+                int maxValue = -1;  // для того, щоб цикл запустився з першого разу
                 Player playerWithMaxValue = null;
                 Stack<Card> cardStack = new Stack<Card>();
 
